@@ -10,7 +10,7 @@
     "discord.js": "github:discordjs/discord.js",
     "dotenv": "*",
     "express": "*",
-    "klasa": "*",
+    "klasa": "github:dirigeants/klasa",
     "mongodb": "*",
     "ejs": "*",
     "node-fetch": "*"
